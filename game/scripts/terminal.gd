@@ -1,6 +1,7 @@
 extends Node
 
 var command = ""
+#var file_tree = {"/":["evilchild.zip"]} // map out the tree
 
 func _ready():
 	$screen/intro.add_text("root@ruinx:~" + '\n' + "$ Enter the command.\n")
