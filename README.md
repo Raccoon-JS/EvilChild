@@ -9,4 +9,4 @@ She also sent me all of the assets for the zine, and I must obliged to make a ga
 
 While brainstorming, I realized there are some skills I am not ready there yet.
 
-If you see the folder full of C-language codes, that's for the testing of how to make a terminal-like system with Godot Engine.
+I just moved it to Gitea: https://try.gitea.io/Raccoon-JS/EvilChild
