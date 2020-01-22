@@ -9,4 +9,5 @@ She also sent me all of the assets for the zine, and I must obliged to make a ga
 
 While brainstorming, I realized there are some skills I am not ready there yet.
 
-I just moved it to Gitea: https://try.gitea.io/Raccoon-JS/EvilChild
+I just moved it to Gitea (Not anymore): 
+https://try.gitea.io/Raccoon-JS/EvilChild
